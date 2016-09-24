@@ -7,6 +7,10 @@ form input#note_text {
 	width: 350px;
 }
 
+.labels {
+	font-size: 200%;
+}
+
 /* sticky note */
 
 ul#stickies li {
